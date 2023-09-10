@@ -1,0 +1,9 @@
+the alogrithims of reading a sentence 
+ what is the problem: the problem here is to read the sentence which is based on the vowel count and the word count it self
+step 1:  create variable to hold  sentence , wordcount, vowelchac, vowel count 
+step2 : read sentence 
+step 3: on get to space add1 to word count
+step 4: read vowel(Aeiou) 
+step 5:read sentence  char by char
+step 6: if sentence char match any vowelchar 
+step 7:add 1 to vowelcount
