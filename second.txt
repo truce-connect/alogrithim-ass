@@ -1,0 +1,10 @@
+ step one : problem alogrithm  that fufil the following  description [i] sum
+ step two : solution
+  step three:  create  variable to hold 
+  step four : read aet 1 elements
+  step five :  check if set 1 element is not present in set 2 element 
+  step six : if true add the  element to sum 
+  step seven : read set 2
+  step eight : check if element in set 2 is not in set 1
+  step nine : if true add the element to sum 
+   step ten : print sum
